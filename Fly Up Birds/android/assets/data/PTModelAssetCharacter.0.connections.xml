@@ -1,0 +1,481 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"/>
+
+<plist version="1.0">
+    <dict>
+        <key>ROOT</key>
+        <array>
+            <dict>
+                <key>id</key>
+                <string>1037</string>
+                <key>Default Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>1039</string>
+                </dict>
+                <key>Bullet Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>1179</string>
+                </dict>
+                <key>Jump Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>6241</string>
+                </dict>
+                <key>Locked Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>7940</string>
+                </dict>
+                <key>Jump Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>10979</string>
+                </dict>
+                <key>Defeated Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>11118</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>6305</string>
+                <key>Default Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>6307</string>
+                </dict>
+                <key>Unlocked Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>8370</string>
+                </dict>
+                <key>Locked Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>7962</string>
+                </dict>
+                <key>Jump Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>10979</string>
+                </dict>
+                <key>Defeated Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>11118</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>6314</string>
+                <key>Default Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>6316</string>
+                </dict>
+                <key>Locked Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>8006</string>
+                </dict>
+                <key>Jump Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>10979</string>
+                </dict>
+                <key>Defeated Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>11118</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>6323</string>
+                <key>Default Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>6325</string>
+                </dict>
+                <key>Locked Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>8091</string>
+                </dict>
+                <key>Jump Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>10979</string>
+                </dict>
+                <key>Defeated Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>11118</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>6332</string>
+                <key>Default Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>6334</string>
+                </dict>
+                <key>Locked Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>7972</string>
+                </dict>
+                <key>Jump Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>10979</string>
+                </dict>
+                <key>Defeated Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>11118</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>6341</string>
+                <key>Default Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>6343</string>
+                </dict>
+                <key>Locked Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>8106</string>
+                </dict>
+                <key>Jump Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>10979</string>
+                </dict>
+                <key>Defeated Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>11118</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>6421</string>
+                <key>Default Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>6423</string>
+                </dict>
+                <key>Locked Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>8114</string>
+                </dict>
+                <key>Jump Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>10979</string>
+                </dict>
+                <key>Defeated Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>11118</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>6430</string>
+                <key>Default Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>6432</string>
+                </dict>
+                <key>Locked Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>8122</string>
+                </dict>
+                <key>Jump Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>10979</string>
+                </dict>
+                <key>Defeated Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>11118</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>6477</string>
+                <key>Default Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>6479</string>
+                </dict>
+                <key>Locked Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>8130</string>
+                </dict>
+                <key>Jump Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>10979</string>
+                </dict>
+                <key>Defeated Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>11118</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>6486</string>
+                <key>Default Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>6488</string>
+                </dict>
+                <key>Locked Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>8138</string>
+                </dict>
+                <key>Jump Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>10979</string>
+                </dict>
+                <key>Defeated Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>11118</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>6495</string>
+                <key>Default Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>6497</string>
+                </dict>
+                <key>Locked Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>8146</string>
+                </dict>
+                <key>Jump Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>10979</string>
+                </dict>
+                <key>Defeated Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>11118</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>6504</string>
+                <key>Default Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>6506</string>
+                </dict>
+                <key>Locked Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>8154</string>
+                </dict>
+                <key>Jump Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>10979</string>
+                </dict>
+                <key>Defeated Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>11118</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>6513</string>
+                <key>Default Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>6515</string>
+                </dict>
+                <key>Locked Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>8162</string>
+                </dict>
+                <key>Jump Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>10979</string>
+                </dict>
+                <key>Defeated Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>11118</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>6522</string>
+                <key>Default Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>6524</string>
+                </dict>
+                <key>Locked Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>8170</string>
+                </dict>
+                <key>Jump Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>10979</string>
+                </dict>
+                <key>Defeated Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>11118</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>6531</string>
+                <key>Default Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>6533</string>
+                </dict>
+                <key>Locked Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>8178</string>
+                </dict>
+                <key>Jump Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>10979</string>
+                </dict>
+                <key>Defeated Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>11118</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>6540</string>
+                <key>Default Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>6542</string>
+                </dict>
+                <key>Locked Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>8197</string>
+                </dict>
+                <key>Jump Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>10979</string>
+                </dict>
+                <key>Defeated Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>11118</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>6549</string>
+                <key>Default Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>6551</string>
+                </dict>
+                <key>Locked Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>8205</string>
+                </dict>
+                <key>Jump Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>10979</string>
+                </dict>
+                <key>Defeated Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>11118</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>6558</string>
+                <key>Default Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>6560</string>
+                </dict>
+                <key>Locked Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>8213</string>
+                </dict>
+                <key>Jump Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>10979</string>
+                </dict>
+                <key>Defeated Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>11118</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>6567</string>
+                <key>Default Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>6569</string>
+                </dict>
+                <key>Locked Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>8221</string>
+                </dict>
+                <key>Jump Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>10979</string>
+                </dict>
+                <key>Defeated Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>11118</string>
+                </dict>
+            </dict>
+        </array>
+    </dict>
+</plist>
